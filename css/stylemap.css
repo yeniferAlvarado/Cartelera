@@ -1,0 +1,39 @@
+h1 {
+
+}
+.lemur {
+    float: left;
+    margin-right: 20px;
+}
+.texto {
+    margin: 20px;
+    text-align: justify;
+}
+.osoimg {
+    float: right;
+    margin: 20px;
+}
+.textoso {
+    margin: 20px;
+    text-align: justify;
+}
+.perroimg {
+    margin: 0 auto;
+    display: block;
+}
+.textperro {
+    margin: 20px;
+    text-align: justify;
+}
+a {
+    list-style: none;
+    text-decoration: none;
+    font-style: italic;
+}
+.animales {
+    display: block;
+    margin: 0 auto;
+}
+area {
+    outline-color: rgb(218, 32, 32);
+}
